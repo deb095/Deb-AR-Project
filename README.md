@@ -76,3 +76,8 @@ Computer Vision & 3D Coursework (2024/2025)
 
 ## License
 This project is licensed under the MIT License.
+
+⚠️ Note:
+Reference images and generated face captures are excluded from the repository
+for privacy reasons. Users must provide their own reference image locally.
+
